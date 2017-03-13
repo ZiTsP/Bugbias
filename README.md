@@ -5,13 +5,13 @@ BugbiasSWT(JavaSWTアプリケーション版)、BugbiasPlugin(Eclipse Plugin版
 
 ## 製作履歴 (降順)
 
-### Bugbias(Eclipse Plugin) 2017 Jan. ~ Feb.
+### Bugbias(Eclipse Plugin) 2017 Jan. ~ 2017 Feb.
 
-![BugbiasPlugin-Doc1](./pic/bugbias-plugin1.png "Bugbias Doc1")
+![BugbiasPlugin-Doc1](./pic/Bugbias-plugin1.png "Bugbias Doc1")
 
-![BugbiasPlugin-Doc2](./pic/bugbias-plugin2.png "Bugbias Doc2")
+![BugbiasPlugin-Doc2](./pic/Bugbias-plugin2.png "Bugbias Doc2")
 
-![BugbiasPlugin-View](./pic/bugbias-plugin-view.png "Bugbias (Plugin)")
+![BugbiasPlugin-View](./pic/Bugbias-plugin-view.png "Bugbias (Plugin)")
 
 ### Bugbias(SWT) 2017 Jan.
 
@@ -22,7 +22,7 @@ Git(Svn)の更新／一定時間ごと／任意のタイミングで解析しま
 
 ![BugbiasSWT-DEMO (Git)](./pic/bugbias-demo-git.png "Bugbias SWT DEMO (Git")
 
-### PluginLamp(Eclipse Plugin) 2016 Mar. ~ Apr.
+### PluginLamp(Eclipse Plugin) 2016 Mar. ~ 2016 Apr.
 
 CodeLampを
 
